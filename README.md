@@ -1,5 +1,11 @@
-## Usage
 
+## What it does?
+* Quickly share part of your screen, other apps thinking that it's a whole screen
+* Large screens - share only small part
+* Large screens - when sharing small part fonts are big enough
+
+
+## Usage
 * Put file into PATH
 * Adjust paths to wallpapers (BASE_WALLPAPER, SHARE_WALLPAPER)
 * Adjust virtual screen size and position next to the xrandr command
