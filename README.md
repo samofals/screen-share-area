@@ -5,7 +5,7 @@
 * Large screens - when sharing small part fonts are big enough
 * Sets a separate wallpaper for shared part - easy to distinguish shared part
 
-![Example][example.gif]
+![Example](example.gif)
 
 ## Usage
 * Put file into PATH
