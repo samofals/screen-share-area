@@ -6,7 +6,7 @@ SHARE_WALLPAPER=~/.config/feh/green-ultrawide.jpg
 case $1 in
 
   on)
-    # Define virtual monitor
+    # Define virtual monitor 1440x900, ~ in the middle of 5120x1440
     xrandr --setmonitor vm-shr 1440/338x900/211+1840+20 none
 
     # Set wallpapers
