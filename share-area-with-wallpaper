@@ -1,0 +1,26 @@
+#!/bin/bash
+
+BASE_WALLPAPER=~/.config/feh/color-triangles-ultrawide.jpg
+SHARE_WALLPAPER=~/.config/feh/green-ultrawide.jpg
+
+case $1 in
+
+  on)
+    # Define vitual monitor
+    xrandr --setmonitor vm-shr 1440/338x900/211+1840+20 none
+
+    # Set wallpapers
+    nitrogen --head=-1 --set-zoom-fill $BASE_WALLPAPER
+    nitrogen --head=1 --set-zoom-fill $SHARE_WALLPAPER
+    ;;
+
+  off)
+    # Delete virtual monitor
+    xrandr --delmonitor vm-shr
+
+    # Reset the wallpaper
+    nitrogen --head=-1 --set-zoom-fill $BASE_WALLPAPER
+    ;;
+
+esac
+
