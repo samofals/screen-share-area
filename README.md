@@ -12,5 +12,5 @@
 * nitrogen
 
 ## Links
-* [[https://chipsenkbeil.com/notes/linux-virtual-monitors-with-xrandr/|Linux Virtual Monitors with xrandr]]
-* [[https://mrwaggel.be/post/xrandr-virtual-splitscreen-cookbook/|xrandr format explanation/xrandr virtual splitscreen cookbook]]
+* [Linux Virtual Monitors with xrandr](https://chipsenkbeil.com/notes/linux-virtual-monitors-with-xrandr/)
+* [xrandr format explanation/xrandr virtual splitscreen cookbook](https://mrwaggel.be/post/xrandr-virtual-splitscreen-cookbook/)
