@@ -5,6 +5,8 @@
 * Large screens - when sharing small part fonts are big enough
 * Sets a separate wallpaper for shared part - easy to distinguish shared part
 
+![Example][example.gif]
+
 ## Usage
 * Put file into PATH
 * Adjust paths to wallpapers (BASE_WALLPAPER, SHARE_WALLPAPER)
