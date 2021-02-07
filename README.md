@@ -3,7 +3,7 @@
 * Quickly share part of your screen, other apps thinking that it's a whole screen
 * Large screens - share only small part
 * Large screens - when sharing small part fonts are big enough
-
+* Sets a separate wallpaper for shared part - easy to distinguish shared part
 
 ## Usage
 * Put file into PATH
